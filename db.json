@@ -1,284 +1,615 @@
-{
-      "Word": "eight",
+  {"Spellings": [
+  {
+    "Word": "eight"
     },
     {
-      "Word": "twenty",
+      "Word": "twenty"
     },
     {
-      "Word": "eleven",
+      "Word": "eleven"
     },
     {
-      "Word": "twelve",
+      "Word": "twelve"
     },
     {
-      "Word": "twenty-eight",
+      "Word": "twenty-eight"
     },
     {
-      "Word": "thirteen",
+      "Word": "thirteen"
     },
     {
-      "Word": "thrity",
+      "Word": "thrity"
     },
     {
-      "Word": "fourteen",
+      "Word": "fourteen"
     },
     {
-      "Word": "forty",
+      "Word": "forty"
     },
     {
-      "Word": "fifty",
+      "Word": "fifty"
     },
     {
-      "Word": "fifteen",
+      "Word": "fifteen"
     },
     {
-      "Word": "sixty",
+      "Word": "sixty"
     },
     {
-      "Word": "eight hundred",
+      "Word": "eight hundred"
     },
     {
-      "Word": "seventy",
+      "Word": "seventy"
     },
     {
-      "Word": "one thousand",
+      "Word": "one thousand"
     },
     {
-      "Word": "eighty",
+      "Word": "eighty"
     },
     {
-      "Word": "ninety",
+      "Word": "ninety"
     },
     {
-      "Word": "two hundred",
+      "Word": "two hundred"
     },
     {
-      "Word": "five hundred",
+      "Word": "five hundred"
     },
     {
-      "Word": "eighteen",
+      "Word": "eighteen"
     },
     {
-      "Word": "one hundred",
+      "Word": "one hundred"
     },
     {
-      "Word": "four hundred",
+      "Word": "four hundred"
     },
     {
-      "Word": "jumping",
+      "Word": "jumping"
     },
     {
-      "Word": "spending",
+      "Word": "spending"
     },
     {
-      "Word": "helping",
+      "Word": "helping"
     },
     {
-      "Word": "leading",
+      "Word": "leading"
     },
     {
-      "Word": "walking",
+      "Word": "walking"
     },
     {
-      "Word": "asking",
+      "Word": "pulling"
     },
     {
-      "Word": "pulling",
+      "Word": "seeing"
     },
     {
-      "Word": "seeing",
+      "Word": "looking"
     },
     {
-      "Word": "looking",
+      "Word": "doing"
     },
     {
-      "Word": "doing",
+      "Word": "meeting"
     },
     {
-      "Word": "meeting",
+      "Word": "going"
     },
     {
-      "Word": "going",
+      "Word": "saying"
     },
     {
-      "Word": "saying",
+      "Word": "enjoying"
     },
     {
-      "Word": "enjoying",
+      "Word": "trying"
     },
     {
-      "Word": "trying",
+      "Word": "hope"
     },
     {
-      "Word": "hope",
+      "Word": "hoping"
     },
     {
-      "Word": "hoping",
+      "Word": "hate"
     },
     {
-      "Word": "hate",
+      "Word": "hating"
     },
     {
-      "Word": "hating",
+      "Word": "take"
     },
     {
-      "Word": "take",
+      "Word": "taking"
     },
     {
-      "Word": "taking",
+      "Word": "like"
     },
     {
-      "Word": "like",
+      "Word": "liking"
     },
     {
-      "Word": "liking",
+      "Word": "write"
     },
     {
-      "Word": "write",
+      "Word": "writing"
     },
     {
-      "Word": "writing",
+      "Word": "plan"
     },
     {
-      "Word": "plan",
+      "Word": "planning"
     },
     {
-      "Word": "planning",
+      "Word": "win"
     },
     {
-      "Word": "win",
+      "Word": "winning"
     },
     {
-      "Word": "winning",
+      "Word": "smile"
     },
     {
-      "Word": "smile",
+      "Word": "smiling"
     },
     {
-      "Word": "smiling",
+      "Word": "drive"
     },
     {
-      "Word": "drive",
+      "Word": "driving"
     },
     {
-      "Word": "driving",
+      "Word": "decide"
     },
     {
-      "Word": "come",
+      "Word": "deciding"
     },
     {
-      "Word": "coming",
+      "Word": "ride"
     },
     {
-      "Word": "decide",
+      "Word": "riding"
     },
     {
-      "Word": "deciding",
+      "Word": "make"
     },
     {
-      "Word": "ride",
+      "Word": "making"
     },
     {
-      "Word": "riding",
+      "Word": "raise"
     },
     {
-      "Word": "make",
+      "Word": "raising"
     },
     {
-      "Word": "making",
+      "Word": "stare"
     },
     {
-      "Word": "amaze",
+      "Word": "staring"
     },
     {
-      "Word": "amazing",
+      "Word": "slim"
     },
     {
-      "Word": "care",
+      "Word": "slimming"
     },
     {
-      "Word": "caring",
+      "Word": "hop"
     },
     {
-      "Word": "raise",
+      "Word": "hopping"
     },
     {
-      "Word": "raising",
+      "Word": "rub"
+    }
+    {
+      "Word": "rubbing"
+    },
+    {
+      "Word": "run"
+    },
+    {
+      "Word": "running"
+    },
+    {
+      "Word": "slip"
+    },
+    {
+      "Word": "slipping"
+    },
+    {
+      "Word": "shut"
+    },
+    {
+      "Word": "shutting"
+    },
+    {
+      "Word": "fit"
+    },
+    {
+      "Word": "fitting"
+    },
+    {
+      "Word": "tip"
+    },
+    {
+      "Word": "tipping"
+    },
+    {
+      "Word": "shop"
+    },
+    {
+      "Word": "shopping"
+    },
+    {
+      "Word": "accident"
+    },
+    {
+      "Word": "accidentally"
+    },
+    {
+      "Word": "actual"
+    },
+    {
+      "Word": "actually"
+    },
+    {
+      "Word": "address"
+    },
+    {
+      "Word": "answer"
+    },
+    {
+      "Word": "amaze"
+    },
+    {
+      "Word": "amazing"
+    },
+    {
+      "Word": "asking"
+    },
+    {
+      "Word": "appear"
+    },
+    {
+      "Word": "arrive"
+    },
+    {
+      "Word": "believe"
+    },
+    {
+      "Word": "bet"
+    },
+    {
+      "Word": "betting"
+    },
+    {
+      "Word": "bicycle"
+    },
+    {
+      "Word": "breath"
+    },
+    {
+      "Word": "breathe"
+    },
+    {
+      "Word": "build"
+    },
+    {
+      "Word": "busy"
+    },
+    {
+      "Word": "business"
+    },
+    {
+      "Word": "care"
+    },
+    {
+      "Word": "caring"
+    },
+    {
+      "Word": "come"
+    },
+    {
+      "Word": "coming"
+    },
+    {
+      "Word": "chat"
+    },
+    {
+      "Word": "chatting"
+    },
+    {
+      "Word": "clap"
+    },
+    {
+      "Word": "clapping"
+    },
+    {
+      "Word": "calendar"
+    },
+    {
+      "Word": "caught"
+    },
+    {
+      "Word": "centre"
+    },
+    {
+      "Word": "century"
+    },
+    {
+      "Word": "certain"
+    },
+    {
+      "Word": "circle"
+    },
+    {
+      "Word": "complete"
+    },
+    {
+      "Word": "consider"
+    },
+    {
+      "Word": "continue"
+    },
+    {
+      "Word": "decide"
+    },
+    {
+      "Word": "describe"
+    },
+    {
+      "Word": "different"
+    },
+    {
+      "Word": "difficult"
+    },
+    {
+      "Word": "disappear"
+    },
+    {
+      "Word": "early"
+    },
+    {
+      "Word": "earth"
+    },
+    {
+      "Word": "eight"
+    },
+    {
+      "Word": "eighth"
+    },
+    {
+      "Word": "enough"
+    },
+    {
+      "Word": "exercise"
+    },
+    {
+      "Word": "experience"
+    },
+    {
+      "Word": "experiment"
+    },
+    {
+      "Word": "extreme"
+    },
+    {
+      "Word": "famous"
+    },
+    {
+      "Word": "favourite"
+    },
+    {
+      "Word": "February"
+    },
+    {
+      "Word": "forward"
+    },
+    {
+      "Word": "forwards"
+    },
+    {
+      "Word": "fruit"
+    },
+    {
+      "Word": "grammar"
+    },
+    {
+      "Word": "group"
+    },
+    {
+      "Word": "guard"
+    },
+    {
+      "Word": "guide"
+    },
+    {
+      "Word": "heard"
+    },
+    {
+      "Word": "heart"
+    },
+    {
+      "Word": "height"
+    },
+    {
+      "Word": "history"
+    },
+    {
+      "Word": "imagine"
+    },
+    {
+      "Word": "increase"
+    },
+    {
+      "Word": "important"
+    },
+    {
+      "Word": "interest"
+    },
+    {
+      "Word": "island"
+    },
+    {
+      "Word": "knowledge"
+    },
+    {
+      "Word": "learn"
+    },
+    {
+      "Word": "length"
+    },
+    {
+      "Word": "library"
+    },
+    {
+      "Word": "material"
+    },
+    {
+      "Word": "medicine"
+    },
+    {
+      "Word": "mention"
+    },
+    {
+      "Word": "minute"
+    },
+    {
+      "Word": "natural"
+    },
+    {
+      "Word": "naughty"
+    },
+    {
+      "Word": "notice"
+    },
+    {
+      "Word": "occasion"
     },
     {
-      "Word": "stare",
+      "Word": "occasionally"
     },
     {
-      "Word": "staring",
+      "Word": "often"
     },
     {
-      "Word": "slim",
+      "Word": "opposite"
     },
     {
-      "Word": "slimming",
+      "Word": "ordinary"
     },
     {
-      "Word": "hop",
+      "Word": "particular"
     },
     {
-      "Word": "hopping",
+      "Word": "peculiar"
     },
     {
-      "Word": "rub",
-    },{
-      "Word": "rubbing",
+      "Word": "perhaps"
     },
     {
-      "Word": "run",
+      "Word": "popular"
     },
     {
-      "Word": "running",
+      "Word": "position"
     },
     {
-      "Word": "slip",
+      "Word": "possess"
     },
     {
-      "Word": "slipping",
+      "Word": "possession"
     },
     {
-      "Word": "shut",
+      "Word": "possible"
     },
+     {
+      "Word": "potatoes"
+    },
+    {
+      "Word": "pressure"
+    },
+    {
+      "Word": "probably"
+    },
+    {
+      "Word": "promise"
+    },
+    {
+      "Word": "purpose"
+    },
+    {
+      "Word": "quarter"
+    },
+    {
+      "Word": "question"
+    },
+    {
+      "Word": "recent"
+    },
+    {
+      "Word": "regular"
+    },
+    {
+      "Word": "reign"
+    },
+    {
+      "Word": "remember"
+    },
     {
-      "Word": "shutting",
+      "Word": "sentence"
     },
     {
-      "Word": "fit",
+      "Word": "separate"
     },
     {
-      "Word": "fitting",
+      "Word": "special"
     },
     {
-      "Word": "chat",
+      "Word": "straight"
     },
     {
-      "Word": "chatting",
+      "Word": "strange"
     },
     {
-      "Word": "tip",
+      "Word": "strength"
     },
     {
-      "Word": "tipping",
+      "Word": "suppose"
     },
     {
-      "Word": "clap",
+      "Word": "surprise"
     },
     {
-      "Word": "clapping",
+      "Word": "therefore"
     },
     {
-      "Word": "bet",
+      "Word": "though"
     },
     {
-      "Word": "betting",
+      "Word": "although"
     },
     {
-      "Word": "shop",
+      "Word": "thought"
     },
     {
-      "Word": "shopping",
+      "Word": "through"
     },
+    {
+      "Word": "various"
+    },
+    {
+      "Word": "weight"
+    },
+    {
+      "Word": "woman"
+    },
+    {
+      "Word": "women"
+    }
+  ]
+}
